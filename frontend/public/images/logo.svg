@@ -1,0 +1,6 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="40" height="40" rx="8" fill="#000000"/>
+  <path d="M20 25L30 20L40 25V35L30 40L20 35V25Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 25L30 30M30 30L40 25M30 30V40" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="60" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#000000">DS Docs</text>
+</svg>
